@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.1c40adf3.css",
+    "main.js": "/React-Portfolio/static/js/main.aade4105.js",
+    "static/media/notes.png": "/React-Portfolio/static/media/notes.67de77f1c4c8db4cd790.png",
+    "static/media/restaurant.jpeg": "/React-Portfolio/static/media/restaurant.3c4f9dd42a49ec8bf883.jpeg",
+    "static/media/Me1.jpg": "/React-Portfolio/static/media/Me1.89980f108b6964de21b2.jpg",
+    "static/media/grocerystore.jpeg": "/React-Portfolio/static/media/grocerystore.d446f8f121e4acf110b4.jpeg",
+    "static/media/calculator.jpeg": "/React-Portfolio/static/media/calculator.90cf2c4abfbfc2246295.jpeg",
+    "static/media/CV1.pdf": "/React-Portfolio/static/media/CV1.1fe86fb9d38ff520fc7a.pdf",
+    "static/media/weather.jpeg": "/React-Portfolio/static/media/weather.df15a6b5974b0944068e.jpeg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.1c40adf3.css.map": "/React-Portfolio/static/css/main.1c40adf3.css.map",
+    "main.aade4105.js.map": "/React-Portfolio/static/js/main.aade4105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c40adf3.css",
+    "static/js/main.aade4105.js"
+  ]
+}
